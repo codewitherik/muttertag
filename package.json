@@ -1,0 +1,17 @@
+{
+    "name": "muttertag - application ",
+    "version": "1.0.0",
+    "description": "eine Web Application für Muttertag includes a login page und main page",
+    "main": "src/index.html",
+    "scripts": {
+        "start": "live server src"
+    },
+
+    "dependencies": {}
+    "devDependencies": {
+        "live-server": "1.2.2"
+    },
+
+    "author": "codewitherik",
+    "license": "Apache-2.0",
+}
